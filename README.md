@@ -3,12 +3,12 @@
 En este proyecto final, quise plasmar un poco de mi personalidad. Fue un reto significativo el juntar todos los conocimientos adquiridos mediante el Bootcamp de TecnolochicasPRO, pero al final la satisfacción fue más grande, pues me di cuenta que soy capaz de aprender cosas nuevas a mi propio ritmo. 
 
 ## ÍNDICE 
-* [Hero] ()
-* [Experiencia] ()
-* [Proyectos] ()
-* [Testimonios] ()
-* [Contacto] ()
-* [Link a la página]
+* [Hero](https://github.com/SkyDan231/Final-Project-TecnolochicasPro#%EF%B8%8F-hero)
+* [Experiencia](https://github.com/SkyDan231/Final-Project-TecnolochicasPro#-experiencia)
+* [Proyectos](https://github.com/SkyDan231/Final-Project-TecnolochicasPro#-proyectos)
+* [Testimonios](https://github.com/SkyDan231/Final-Project-TecnolochicasPro#-testimonios)
+* [Contacto](https://github.com/SkyDan231/Final-Project-TecnolochicasPro#-contacto)
+* [Link a la página](https://github.com/SkyDan231/Final-Project-TecnolochicasPro#-link-a-la-p%C3%A1gina)
 
 ***
 ## 🦸🏽‍♀️ Hero: 
@@ -44,7 +44,7 @@ Contacto:
 Finalmente, pongo a tu disposición algunas formas de contactarme o conocer más sobre mí y mi trabajo, en este apartado encuentras varios links hacia las redes sociales que más utilizo, espero que haya sido de tu agrado darte una vuelta por acá. Gracias por ver!!💖
 
 ## 🔗 Link a la página 
-Visualiza mi página aquí: 👉🏽 (#)
+Visualiza mi página aquí: 👉🏽 [Final Project TecnolochicasPRO](https://skydan231.github.io/Final-Project-TecnolochicasPro/)
 
 ## Tecnologías
 
